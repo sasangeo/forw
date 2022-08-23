@@ -1,6 +1,6 @@
 ### Host on Heroku
 
-<p><a href="https://heroku.com/deploy?template=https://github.com/bulanbintang69/telegram-message-forwarder-bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
+<p><a href="https://heroku.com/deploy?template=https://github.com/bulanbintang69/forw"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku"/></a></p>
 
 
 ## Setting
